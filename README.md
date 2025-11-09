@@ -3,7 +3,7 @@
 I'm [Rayan](https://www.linkedin.com/in/rayan-hassan-0322a7347/), an Information Systems Graduate.
 
 💻 Web & Software Developer | Front-End Developer**  
-🚀 React | Next.js | TypeScript | Figma UI/UX | SEO & Hosting Management**
+🚀 React | Next.js | TypeScript | Figma UI/UX | SEO & Hosting Management
 
 🧠 About Me  
 I’m a elf-taught developer passionate about crafting clean, responsive, and user-focused digital experiences. My journey began with curiosity and a love for building things from scratch — I bring ideas to life using modern tools and frameworks.
