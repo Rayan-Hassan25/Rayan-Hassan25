@@ -2,7 +2,7 @@
 
 <!--
 **Rayan-Hassan25/Rayan-Hassan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm [Rayan]
+I'm [Rayan](https://www.linkedin.com/in/rayan-hassan-0322a7347/) , an Information Systems Graduate.
 
 💻 Web & Software Developer | Front-End Developer
 🚀 React | Next.js | TypeScript | Figma UI/UX | SEO & Hosting Management
