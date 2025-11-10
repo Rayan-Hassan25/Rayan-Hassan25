@@ -16,7 +16,7 @@ I enjoy combining creativity with logic — whether it’s through **React-based
 - Skills: Web & Software Development, SEO Optimization, Hosting Management, UI/UX Design, Responsive Development  
 
 ☕ Fun Facts  
-- Always on the hunt for the best matcha latte 🍵  
+- Love Games, creating simple fun, mind stimulating games. 
 - Love learning new tech, watching shows, and exploring design ideas  
 - Coding helps me express creativity through problem-solving 
 
